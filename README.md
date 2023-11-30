@@ -8,7 +8,7 @@ Since the upload assignment is also useful for me eventually, this is a good loc
 
 
 # detail
-1. diabetes.csv
+## 1. diabetes.csv
   Sample dataset representing diabetes condition
       Pregnancies: Number of times pregnant
       Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
@@ -20,8 +20,8 @@ Since the upload assignment is also useful for me eventually, this is a good loc
       Age: Age in years
       Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
 
-2. Youngbong_040819165.ipynb (Project_Diabetes_Prediction.ipynb )
-# As of final assignment in Business Intelligence Programming, the file name is a bit weird. it will be eventually changed to the original name.
+## 2. Youngbong_040819165.ipynb (Project_Diabetes_Prediction.ipynb )
+(As of final assignment in Business Intelligence Programming, the file name is a bit weird. it will be eventually changed to the original name.)
   Machine learning instruction code as we as question-answer sheet
   using both linear-regression, Random forest algorism. 
 
